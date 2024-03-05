@@ -11,9 +11,7 @@ permalink: /about/
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+요즘에 어떤 일을 할지 모르겠어서 고민이 많은 29살 백수
+오랜만에 컴퓨터를 잡아봤는데 그냥 스트레스 받는다 
+이걸 하면 스트레스를 덜 받을 수 있을까?
+
